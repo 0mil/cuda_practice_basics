@@ -1,0 +1,20 @@
+# CUDA binaries
+*.o
+*.out
+*.exe
+*.bin
+*.log
+
+# Compiled files
+hello_cuda
+
+# Backup files
+*~
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.swp
+.DS_Store
+
